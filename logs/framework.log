@@ -1,0 +1,306 @@
+2026-06-08 17:30:59,720 - INFO - Page initiated
+2026-06-08 17:30:59,778 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:30:59,800 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:30:59,920 - INFO - Clicked locator: , #login-button
+2026-06-08 17:30:59,921 - INFO - Page initiated
+2026-06-08 17:30:59,962 - INFO - Clicked locator: , #react-burger-menu-btn
+2026-06-08 17:31:00,950 - INFO - Clicked locator: , nav a#logout_sidebar_link
+2026-06-08 17:31:07,298 - INFO - Page initiated
+2026-06-08 17:31:07,406 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:31:07,429 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:31:07,537 - INFO - Clicked locator: , #login-button
+2026-06-08 17:31:07,537 - INFO - Page initiated
+2026-06-08 17:31:07,662 - INFO - Clicked locator: , #react-burger-menu-btn
+2026-06-08 17:31:08,616 - INFO - Clicked locator: , nav a#logout_sidebar_link
+2026-06-08 17:31:21,588 - INFO - Page initiated
+2026-06-08 17:31:21,649 - INFO - Entered text= invalid_user in locator = #user-name.
+2026-06-08 17:31:21,673 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:31:21,740 - INFO - Clicked locator: , #login-button
+2026-06-08 17:31:23,665 - INFO - Page initiated
+2026-06-08 17:31:23,706 - INFO - Entered text=  in locator = #user-name.
+2026-06-08 17:31:23,732 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:31:23,780 - INFO - Clicked locator: , #login-button
+2026-06-08 17:31:25,611 - INFO - Page initiated
+2026-06-08 17:31:25,666 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:31:25,686 - INFO - Entered text=  in locator = #password.
+2026-06-08 17:31:25,749 - INFO - Clicked locator: , #login-button
+2026-06-08 17:31:27,569 - INFO - Page initiated
+2026-06-08 17:31:27,639 - INFO - Entered text= locked_out_user in locator = #user-name.
+2026-06-08 17:31:27,663 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:31:27,722 - INFO - Clicked locator: , #login-button
+2026-06-08 17:31:29,515 - INFO - Page initiated
+2026-06-08 17:31:29,568 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:31:29,590 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:31:29,691 - INFO - Clicked locator: , #login-button
+2026-06-08 17:31:31,591 - INFO - Page initiated
+2026-06-08 17:31:31,648 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:31:31,668 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:31:31,777 - INFO - Clicked locator: , #login-button
+2026-06-08 17:31:31,777 - INFO - Page initiated
+2026-06-08 17:31:31,817 - INFO - Clicked locator: , #add-to-cart-sauce-labs-bike-light
+2026-06-08 17:31:33,635 - INFO - Page initiated
+2026-06-08 17:31:33,687 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:31:33,710 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:31:33,793 - INFO - Clicked locator: , #login-button
+2026-06-08 17:31:33,793 - INFO - Page initiated
+2026-06-08 17:31:33,838 - INFO - Clicked locator: , #add-to-cart-sauce-labs-bike-light
+2026-06-08 17:31:35,709 - INFO - Page initiated
+2026-06-08 17:31:35,762 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:31:35,783 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:31:35,884 - INFO - Clicked locator: , #login-button
+2026-06-08 17:31:35,884 - INFO - Page initiated
+2026-06-08 17:31:35,949 - INFO - Clicked locator: , #react-burger-menu-btn
+2026-06-08 17:31:36,888 - INFO - Clicked locator: , nav a#logout_sidebar_link
+2026-06-08 17:32:11,142 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:32:11,203 - INFO - Entered text= invalid_user in locator = #user-name.
+2026-06-08 17:32:11,224 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:32:11,307 - INFO - Clicked locator: , #login-button
+2026-06-08 17:32:13,211 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:32:13,270 - INFO - Entered text=  in locator = #user-name.
+2026-06-08 17:32:13,296 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:32:13,347 - INFO - Clicked locator: , #login-button
+2026-06-08 17:32:15,093 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:32:15,162 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:32:15,187 - INFO - Entered text=  in locator = #password.
+2026-06-08 17:32:15,252 - INFO - Clicked locator: , #login-button
+2026-06-08 17:32:16,906 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:32:16,955 - INFO - Entered text= locked_out_user in locator = #user-name.
+2026-06-08 17:32:16,980 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:32:17,040 - INFO - Clicked locator: , #login-button
+2026-06-08 17:32:18,712 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:32:18,767 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:32:18,788 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:32:18,914 - INFO - Clicked locator: , #login-button
+2026-06-08 17:32:20,587 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:32:20,655 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:32:20,683 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:32:20,818 - INFO - Clicked locator: , #login-button
+2026-06-08 17:32:20,818 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-08 17:32:20,854 - INFO - Clicked locator: , #add-to-cart-sauce-labs-bike-light
+2026-06-08 17:32:22,770 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:32:22,839 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:32:22,865 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:32:22,971 - INFO - Clicked locator: , #login-button
+2026-06-08 17:32:22,971 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-08 17:32:23,017 - INFO - Clicked locator: , #add-to-cart-sauce-labs-bike-light
+2026-06-08 17:32:24,955 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:32:25,026 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:32:25,049 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:32:25,178 - INFO - Clicked locator: , #login-button
+2026-06-08 17:32:25,178 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-08 17:32:25,218 - INFO - Clicked locator: , #react-burger-menu-btn
+2026-06-08 17:32:26,177 - INFO - Clicked locator: , nav a#logout_sidebar_link
+2026-06-08 17:50:49,696 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:50:49,781 - INFO - Entered text= invalid_user in locator = #user-name.
+2026-06-08 17:50:49,805 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:50:49,860 - INFO - Clicked locator: , #login-button
+2026-06-08 17:50:51,778 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:50:51,842 - INFO - Entered text=  in locator = #user-name.
+2026-06-08 17:50:51,868 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:50:51,919 - INFO - Clicked locator: , #login-button
+2026-06-08 17:50:53,840 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:50:53,905 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:50:53,927 - INFO - Entered text=  in locator = #password.
+2026-06-08 17:50:53,985 - INFO - Clicked locator: , #login-button
+2026-06-08 17:50:55,560 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:50:55,624 - INFO - Entered text= locked_out_user in locator = #user-name.
+2026-06-08 17:50:55,643 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:50:55,714 - INFO - Clicked locator: , #login-button
+2026-06-08 17:50:57,463 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:50:57,524 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:50:57,547 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:50:57,642 - INFO - Clicked locator: , #login-button
+2026-06-08 17:50:59,466 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:50:59,524 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:50:59,545 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:50:59,654 - INFO - Clicked locator: , #login-button
+2026-06-08 17:50:59,654 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-08 17:50:59,691 - INFO - Clicked locator: , #add-to-cart-sauce-labs-bike-light
+2026-06-08 17:51:01,473 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:51:01,528 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:51:01,550 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:51:01,656 - INFO - Clicked locator: , #login-button
+2026-06-08 17:51:01,656 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-08 17:51:01,692 - INFO - Clicked locator: , #add-to-cart-sauce-labs-bike-light
+2026-06-08 17:51:03,527 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:51:03,591 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:51:03,615 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:51:03,715 - INFO - Clicked locator: , #login-button
+2026-06-08 17:51:03,715 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-08 17:51:03,756 - INFO - Clicked locator: , #react-burger-menu-btn
+2026-06-08 17:51:04,746 - INFO - Clicked locator: , nav a#logout_sidebar_link
+2026-06-08 17:51:37,443 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:51:37,498 - INFO - Entered text= invalid_user in locator = #user-name.
+2026-06-08 17:51:37,523 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:51:37,579 - INFO - Clicked locator: , #login-button
+2026-06-08 17:51:39,309 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:51:39,361 - INFO - Entered text=  in locator = #user-name.
+2026-06-08 17:51:39,387 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:51:39,440 - INFO - Clicked locator: , #login-button
+2026-06-08 17:51:41,237 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:51:41,302 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:51:41,327 - INFO - Entered text=  in locator = #password.
+2026-06-08 17:51:41,387 - INFO - Clicked locator: , #login-button
+2026-06-08 17:51:43,188 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:51:43,247 - INFO - Entered text= locked_out_user in locator = #user-name.
+2026-06-08 17:51:43,270 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:51:43,347 - INFO - Clicked locator: , #login-button
+2026-06-08 17:51:45,167 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:51:45,229 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:51:45,253 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:51:45,348 - INFO - Clicked locator: , #login-button
+2026-06-08 17:51:47,038 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:51:47,090 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:51:47,112 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:51:47,217 - INFO - Clicked locator: , #login-button
+2026-06-08 17:51:47,217 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-08 17:51:47,325 - INFO - Clicked locator: , #add-to-cart-sauce-labs-bike-light
+2026-06-08 17:51:49,081 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:51:49,142 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:51:49,165 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:51:49,266 - INFO - Clicked locator: , #login-button
+2026-06-08 17:51:49,266 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-08 17:51:49,372 - INFO - Clicked locator: , #add-to-cart-sauce-labs-bike-light
+2026-06-08 17:51:51,292 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:51:51,357 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:51:51,379 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:51:51,476 - INFO - Clicked locator: , #login-button
+2026-06-08 17:51:51,476 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-08 17:51:51,602 - INFO - Clicked locator: , #react-burger-menu-btn
+2026-06-08 17:51:52,547 - INFO - Clicked locator: , nav a#logout_sidebar_link
+2026-06-08 17:58:21,153 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:58:21,256 - INFO - Entered text= invalid_user in locator = #user-name.
+2026-06-08 17:58:21,284 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:58:21,351 - INFO - Clicked locator: , #login-button
+2026-06-08 17:58:23,283 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:58:23,337 - INFO - Entered text=  in locator = #user-name.
+2026-06-08 17:58:23,357 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:58:23,419 - INFO - Clicked locator: , #login-button
+2026-06-08 17:58:25,221 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:58:25,270 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:58:25,292 - INFO - Entered text=  in locator = #password.
+2026-06-08 17:58:25,351 - INFO - Clicked locator: , #login-button
+2026-06-08 17:58:27,093 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:58:27,161 - INFO - Entered text= locked_out_user in locator = #user-name.
+2026-06-08 17:58:27,184 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:58:27,238 - INFO - Clicked locator: , #login-button
+2026-06-08 17:58:28,945 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:58:29,016 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:58:29,038 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:58:29,169 - INFO - Clicked locator: , #login-button
+2026-06-08 17:58:30,845 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:58:30,902 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:58:30,922 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:58:31,037 - INFO - Clicked locator: , #login-button
+2026-06-08 17:58:31,037 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-08 17:58:32,765 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:58:32,814 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:58:32,836 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:58:32,953 - INFO - Clicked locator: , #login-button
+2026-06-08 17:58:32,953 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-08 17:58:34,683 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-08 17:58:34,729 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-08 17:58:34,754 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-08 17:58:34,861 - INFO - Clicked locator: , #login-button
+2026-06-08 17:58:34,862 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-09 06:48:51,176 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:48:51,246 - INFO - Entered text= invalid_user in locator = #user-name.
+2026-06-09 06:48:51,262 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:48:51,323 - INFO - Clicked locator: , #login-button
+2026-06-09 06:48:53,180 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:48:53,233 - INFO - Entered text=  in locator = #user-name.
+2026-06-09 06:48:53,254 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:48:53,309 - INFO - Clicked locator: , #login-button
+2026-06-09 06:48:55,047 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:48:55,094 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:48:55,119 - INFO - Entered text=  in locator = #password.
+2026-06-09 06:48:55,177 - INFO - Clicked locator: , #login-button
+2026-06-09 06:48:56,929 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:48:56,980 - INFO - Entered text= locked_out_user in locator = #user-name.
+2026-06-09 06:48:57,000 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:48:57,082 - INFO - Clicked locator: , #login-button
+2026-06-09 06:48:58,796 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:48:58,850 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:48:58,869 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:48:59,024 - INFO - Clicked locator: , #login-button
+2026-06-09 06:49:00,800 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:49:00,856 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:49:00,878 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:49:00,980 - INFO - Clicked locator: , #login-button
+2026-06-09 06:49:00,980 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-09 06:49:02,797 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:49:02,848 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:49:02,867 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:49:02,956 - INFO - Clicked locator: , #login-button
+2026-06-09 06:49:02,956 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-09 06:49:04,580 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:49:04,632 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:49:04,652 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:49:04,764 - INFO - Clicked locator: , #login-button
+2026-06-09 06:49:04,764 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-09 06:51:38,739 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:51:38,821 - INFO - Entered text= invalid_user in locator = #user-name.
+2026-06-09 06:51:38,844 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:51:38,911 - INFO - Clicked locator: , #login-button
+2026-06-09 06:51:40,993 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:51:41,042 - INFO - Entered text=  in locator = #user-name.
+2026-06-09 06:51:41,064 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:51:41,123 - INFO - Clicked locator: , #login-button
+2026-06-09 06:51:42,858 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:51:42,919 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:51:42,936 - INFO - Entered text=  in locator = #password.
+2026-06-09 06:51:42,987 - INFO - Clicked locator: , #login-button
+2026-06-09 06:51:44,644 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:51:44,714 - INFO - Entered text= locked_out_user in locator = #user-name.
+2026-06-09 06:51:44,737 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:51:44,793 - INFO - Clicked locator: , #login-button
+2026-06-09 06:51:46,520 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:51:46,577 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:51:46,600 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:51:46,706 - INFO - Clicked locator: , #login-button
+2026-06-09 06:51:48,278 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:51:48,345 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:51:48,369 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:51:48,483 - INFO - Clicked locator: , #login-button
+2026-06-09 06:51:48,483 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-09 06:51:48,524 - INFO - Clicked locator: , #add-to-cart-sauce-labs-bike-light
+2026-06-09 06:51:50,141 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:51:50,199 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:51:50,216 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:51:50,341 - INFO - Clicked locator: , #login-button
+2026-06-09 06:51:50,342 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-09 06:51:50,388 - INFO - Clicked locator: , #add-to-cart-sauce-labs-bike-light
+2026-06-09 06:51:51,971 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:51:52,038 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:51:52,060 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:51:52,176 - INFO - Clicked locator: , #login-button
+2026-06-09 06:51:52,177 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-09 06:51:52,220 - INFO - Clicked locator: , #react-burger-menu-btn
+2026-06-09 06:51:53,192 - INFO - Clicked locator: , nav a#logout_sidebar_link
+2026-06-09 06:55:29,682 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:55:29,768 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:55:29,790 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:55:29,881 - INFO - Clicked locator: , #login-button
+2026-06-09 06:55:29,881 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-09 06:55:29,933 - INFO - Clicked locator: , #react-burger-menu-btn
+2026-06-09 06:55:30,887 - INFO - Clicked locator: , nav a#logout_sidebar_link
+2026-06-09 06:55:51,589 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:55:51,646 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:55:51,668 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:55:51,778 - INFO - Clicked locator: , #login-button
+2026-06-09 06:55:51,778 - INFO - Page initiated <Page url='https://www.saucedemo.com/inventory.html'>
+2026-06-09 06:55:51,823 - INFO - Clicked locator: , #react-burger-menu-btn
+2026-06-09 06:55:52,786 - INFO - Clicked locator: , nav a#logout_sidebar_link
+2026-06-09 06:56:32,067 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 06:56:32,170 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 06:56:32,197 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 06:56:32,294 - INFO - Clicked locator: , #login-button
+2026-06-09 07:00:05,714 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 07:00:05,784 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 07:00:05,808 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 07:00:05,910 - INFO - Clicked locator: , #login-button
+2026-06-09 07:46:14,947 - INFO - Page initiated <Page url='https://www.saucedemo.com/'>
+2026-06-09 07:46:15,133 - INFO - Entered text= standard_user in locator = #user-name.
+2026-06-09 07:46:15,165 - INFO - Entered text= secret_sauce in locator = #password.
+2026-06-09 07:46:15,344 - INFO - Clicked locator: , #login-button
+2026-06-09 07:46:15,789 - INFO - Screenshot captured: screenshots/test_login_20260609_074615.png
