@@ -6,3 +6,6 @@ allure-report/
 reports/
 *.pyc
 .env
+screenshots/
+__pycache__/
+.pytest_cache/

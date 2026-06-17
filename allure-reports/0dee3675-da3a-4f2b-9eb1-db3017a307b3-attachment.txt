@@ -1,0 +1,4 @@
+[32mINFO    [0m root:base_page.py:7 Page initiated <Page url='https://www.saucedemo.com/'>
+[32mINFO    [0m root:base_page.py:15 Entered text=  in locator = #user-name.
+[32mINFO    [0m root:base_page.py:15 Entered text= secret_sauce in locator = #password.
+[32mINFO    [0m root:base_page.py:11 Clicked locator: , #login-button

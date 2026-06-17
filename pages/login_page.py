@@ -14,7 +14,7 @@ class LoginPage(BasePage):
         Asserter.element_visible(error_label_element, error_message)
 
     def verify_login(self):
-        assert "wrong text" in self.page.url
+        assert "inventory" in self.page.url
 
     def verify_logout(self, logo_text):
         logo_element= self.page.locator(LoginLocators.logo_element)

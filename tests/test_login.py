@@ -1,3 +1,4 @@
+import allure
 from pages.login_page import LoginPage
 from pages.home_page import HomePage
 
@@ -28,7 +29,6 @@ def test_empty_password(page):
 def test_locked_user_login(page):
     page.goto(url)
     login_page = LoginPage(page)
-
     login_page.login("locked_out_user", "secret_sauce")
     login_page.verify_error("Sorry, this user has been locked out")
 
